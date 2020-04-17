@@ -1040,11 +1040,15 @@ footer .social-links li:first-child { margin-left: 0; }
     padding-left: 24px;
     padding-top: 16px;
     padding-bottom: 16px;
-    cursor: pointer;
     font-size: 18px;
     border-bottom-width: 1px;
     border-bottom-style: solid;
     border-bottom-color: #5c5c5c;
+}
+
+.menu:hover{
+    background-color: #424242;
+    cursor: pointer;
 }
 
 .menu .text-right{
@@ -1064,8 +1068,11 @@ footer .social-links li:first-child { margin-left: 0; }
     border-left-style: solid;
     border-left-color: #fff;
 }
+
 .menu-li {
     color: #cfd8dc;
     padding: 8px 8px 8px 8px;
     font-size: 16px;
 }
+
+
